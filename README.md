@@ -2,6 +2,6 @@
 
 **IMOBI**
 
-Projeto Python usado na pystack week (Pythonando).
+Projeto Python desenvolvido na pystack week (Pythonando).
 
 =)
